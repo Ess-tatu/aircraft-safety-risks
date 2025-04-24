@@ -41,29 +41,28 @@ The analysis follows the CRISP-DM framework:
 - **Mooney** aircraft show the **lowest recorded accident frequency**.
 - **Boeing** models display **lower accident rates**, aligned with commercial operation standards.
 
-  ![download 1](https://github.com/user-attachments/assets/f812f335-6327-4a0e-ab39-f54b306339db)
-
-  ![download 2](https://github.com/user-attachments/assets/5736640e-89ed-45d2-bab3-336323a1147a)
-
   ![download 4](https://github.com/user-attachments/assets/a8253d63-396d-424b-9e86-2caf0fc1c68f)
 
-
+  ![download 2](https://github.com/user-attachments/assets/5736640e-89ed-45d2-bab3-336323a1147a)
+  
+  ![download 1](https://github.com/user-attachments/assets/f812f335-6327-4a0e-ab39-f54b306339db)
+  
 ### 2. **Contributing Factors**
 - Accidents are **most frequent during landing**, indicating a critical risk phase.
 - **VMC (Visual Meteorological Conditions)** had more accidents than IMC, suggesting issues with weather-related judgment or pilot experience.
 - **Three-engine reciprocating aircraft** showed the highest fatal injury averages.
 
-  ![download 3](https://github.com/user-attachments/assets/66fb9f14-6a5f-46bc-a1b5-98d85af40526)
-
+  ![download 6](https://github.com/user-attachments/assets/99102b7e-49eb-4595-bfac-ea6c558e6a40)
+  
   ![download 5](https://github.com/user-attachments/assets/2492a31a-e05a-4b0f-bd88-1d1176ac9d79)
 
-  ![download 6](https://github.com/user-attachments/assets/99102b7e-49eb-4595-bfac-ea6c558e6a40)
+  ![download 3](https://github.com/user-attachments/assets/66fb9f14-6a5f-46bc-a1b5-98d85af40526)
 
 ### 3. **Temporal Patterns**
 - Peak accident rates occur in **July**, suggesting risks tied to high-traffic summer months.
 - A spike in fatal injuries occurred between **1990–2000**, likely linked to aging fleets and general aviation growth.
 - **Pilot** or privately - operated flights contributed to most of the accidents.
-- Most accidents occured between **1980-2020**
+- Most accidents occurred between **1980-2020**
 
   ![download 8](https://github.com/user-attachments/assets/369d1bac-43c0-45b2-a997-7632365d13f5)
   
