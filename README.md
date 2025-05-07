@@ -2,8 +2,6 @@
 
 This project provides data-driven insights into aircraft safety risks to guide a company seeking to expand into aviation. Using historical accident and incident data from the National Transportation Safety Board (NTSB), we analyze accident trends, identify high-risk aircraft types, and provide actionable recommendations to support safe fleet acquisition and operation.
 
----
-
 ## 📊 Project Overview
 
 A company planning to enter the aviation sector is evaluating potential aircraft for purchase. This project answers the key question:  
@@ -11,16 +9,12 @@ A company planning to enter the aviation sector is evaluating potential aircraft
 
 The CRISP-DM methodology is applied to explore patterns in historical aviation accidents, uncovering risk factors tied to aircraft type, flight phase, weather, and more.
 
----
-
 ## 📁 Dataset
 
 - **Source**: [NTSB Aviation Accident and Incident Data](https://www.ntsb.gov)
 - **Time Period**: 1962 – 2023
 - **Rows**: 88,889 entries  
 - **Columns**: 31 features including injury severity, aircraft make/model, engine type, phase of flight, and weather conditions.
-
----
 
 ## 🧠 Methodology
 
@@ -31,8 +25,6 @@ The analysis follows the CRISP-DM framework:
 3. **Data Analysis** – Use statistical summaries and visualizations to uncover trends.
 4. **Conclusions** – Summarize key findings on aircraft safety.
 5. **Recommendations** – Provide actionable steps to minimize operational risk.
-
----
 
 ## 🔍 Key Insights
 
@@ -72,8 +64,6 @@ The analysis follows the CRISP-DM framework:
 
   ![download 7](https://github.com/user-attachments/assets/885f1fc2-951b-4983-bdeb-0c8dda87dcfa)
 
----
-
 ## ✅ Recommendations
 
 1. **Aircraft Selection**
@@ -90,16 +80,12 @@ The analysis follows the CRISP-DM framework:
    - Equip aircraft with real-time safety monitoring systems.
    - Continuously update operational manuals based on recent data trends.
 
----
-
 ## 📈 Interactive Dashboard
 
 Explore the interactive version of this analysis on **Tableau Public**:  
 👉 [Aircraft Safety Risks and Management Strategy Dashboard](https://public.tableau.com/views/AircraftSafetyRisksandManagementStrategy/Story2?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 This dashboard presents dynamic visualizations and insights to support executive decision-making.
-
----
 
 ## 🧰 Tools Used
 
@@ -108,14 +94,8 @@ This dashboard presents dynamic visualizations and insights to support executive
 - Tableau Public
 - CRISP-DM Framework
 
----
-
 ## 📌 Project Status
 
 ✅ Completed data cleaning and exploratory data analysis  
 ✅ Delivered strategic business recommendations  
 🔜 Possible future work: Apply machine learning for predictive risk modeling
-
----
-
-
