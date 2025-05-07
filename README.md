@@ -1,6 +1,6 @@
 # ✈️ Aircraft Safety Risks Analysis
 
-This project provides data-driven insights into aircraft safety risks to guide a company seeking to expand into aviation. Using historical accident and incident data from the National Transportation Safety Board (NTSB), we analyze accident trends, identify high-risk aircraft types, and provide actionable recommendations to support safe fleet acquisition and operation.
+This project provides data-driven insights into aircraft safety risks to guide a company seeking to expand into aviation. Using historical accident and incident data from the National Transportation Safety Board (NTSB), this project analyzes accident trends, identifies high-risk aircraft types, and provides actionable recommendations to support safe fleet acquisition and operation.
 
 ## 📊 Project Overview
 
