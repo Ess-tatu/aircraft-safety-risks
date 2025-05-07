@@ -86,16 +86,3 @@ Explore the interactive version of this analysis on **Tableau Public**:
 👉 [Aircraft Safety Risks and Management Strategy Dashboard](https://public.tableau.com/views/AircraftSafetyRisksandManagementStrategy/Story2?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 This dashboard presents dynamic visualizations and insights to support executive decision-making.
-
-## 🧰 Tools Used
-
-- Python (Pandas, NumPy, Seaborn, Matplotlib)
-- Jupyter Notebook
-- Tableau Public
-- CRISP-DM Framework
-
-## 📌 Project Status
-
-✅ Completed data cleaning and exploratory data analysis  
-✅ Delivered strategic business recommendations  
-🔜 Possible future work: Apply machine learning for predictive risk modeling
